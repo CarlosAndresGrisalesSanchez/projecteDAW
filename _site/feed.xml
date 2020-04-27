@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-27T22:36:07+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">PROYECTEDAW</title><subtitle></subtitle><entry><title type="html">PROJECTEDAW</title><link href="http://localhost:4000/projectedaw/2020/04/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="PROJECTEDAW" /><published>2020-04-27T21:26:15+02:00</published><updated>2020-04-27T21:26:15+02:00</updated><id>http://localhost:4000/projectedaw/2020/04/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/projectedaw/2020/04/27/welcome-to-jekyll.html">&lt;p&gt;Mi propuesta de proyecto final es hacer una pagina en la cual se puedan visualizar videos .
+La idea es hacer una pagina con django y vue.&lt;/p&gt;
+
+&lt;p&gt;La pagina principal del frontend tendra una barra en la cual tendra busqueda, logo y la zona de
+usuario en la cual se podra logear, deslogear, mirar su perfil ,etc . Tendra un lugar en el cual se
+cogeran noticias de una api y se mostraran en ese apartado, listar los ultimos 10-20 videos subidos y
+la misma cantidad de los mas votados.&lt;/p&gt;
+
+&lt;p&gt;Los usuarios podrán mirar los videos sin tener que loguearse pero para votar tendran que loguearse.
+La base de datos seguramente utilizare mysql u oracle.
+Backend solo podra acceder el usuario administrador el cual podra añadir y eliminar los videos.
+En la pagina de video se podra mirar el video seleccionado, los usuarios podran añadir comentarios,
+se podra añadir el videos a una lista en la cual pueda visualizar después&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/bofeto.PNG&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;</content><author><name>Carlos Grisales</name></author><summary type="html">Mi propuesta de proyecto final es hacer una pagina en la cual se puedan visualizar videos . La idea es hacer una pagina con django y vue.</summary></entry></feed>
